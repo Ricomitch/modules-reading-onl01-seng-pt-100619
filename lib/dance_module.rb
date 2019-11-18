@@ -1,4 +1,4 @@
-module DANCE 
+module Dance
 
 
 def twirl
